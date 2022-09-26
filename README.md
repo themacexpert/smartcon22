@@ -14,3 +14,7 @@ The required gas amounts in WEI to send along with the message from Moonbase Alp
 - Avalanche Fuji: 970363238301000000
 - Fantom Testnet: 553898649000000000
 - Ethereum Ropst: 16000000000000000000
+
+
+### Checking Cross-Chain Transaction Status
+First, look up the hash of your txn on the origin chain - in this case, [on the Moonbase Alpha Testnet](https://moonbase.moonscan.io/). Then, lookup that hash on [testnet.axelarscan.io](https://testnet.axelarscan.io/). 
