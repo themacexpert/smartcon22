@@ -5,6 +5,10 @@ Workshop for Chainlink Smartcon 2022. This guide contains all the links you'll n
 ## Send a message to another chain with Axelar
 In this demo, we will use Axelar's General message passing to call a contract on another chain. We will be mostly following the steps of [this blog post guide](https://moonbeam.network/blog/connected-contracts-axelar/), with the exception of the **gas amounts**, which have changed since the publish date. 
 
+## Pre-Requisites
+- [Faucet for Moonbase Alpha DEV Funds](https://apps.moonbeam.network/moonbase-alpha/faucet/)
+- [Faucet for Avax Testnet Funds](https://faucet.avax.network/)
+
 ## Building the Contract
 You'll need to import the following: 
 * import {IAxelarExecutable} from "https://github.com/axelarnetwork/axelar-cgp-solidity/blob/main/contracts/interfaces/IAxelarExecutable.sol";
