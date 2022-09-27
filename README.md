@@ -30,4 +30,5 @@ The required gas amounts in WEI to send along with the message from Moonbase Alp
 First, look up the hash of your txn on the origin chain - in this case, [on the Moonbase Alpha Testnet](https://moonbase.moonscan.io/). Then, lookup that hash on [testnet.axelarscan.io](https://testnet.axelarscan.io/). 
 
 ### Need help?
-If you get stuck, you can refer to this sample contract here and/or you can copy and paste the contents of [SimpleGeneralMessage.sol](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5) into Remix.
+- If you get stuck, you can refer to this sample contract here and/or you can copy and paste the contents of [SimpleGeneralMessage.sol](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5) into Remix.
+- [Backup Development Accounts Pre-Funded with Testnet Tokens](https://docs.moonbeam.network/builders/get-started/networks/moonbeam-dev/#pre-funded-development-accounts)
