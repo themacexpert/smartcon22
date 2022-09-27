@@ -7,7 +7,9 @@ In this demo, we will use Axelar's General message passing to call a contract on
 
 ## Pre-Requisites
 - [Faucet for Moonbase Alpha DEV Funds](https://apps.moonbeam.network/moonbase-alpha/faucet/)
+- [Add the Moonbase Alpha Network to MetaMask](https://docs.moonbeam.network/)
 - [Faucet for Avax Testnet Funds](https://faucet.avax.network/)
+- [Add the Avax Fuji Testnet to MetaMask](https://chainlist.org/)
 
 ## Building the Contract
 You'll need to import the following: 
