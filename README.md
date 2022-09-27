@@ -17,7 +17,7 @@ You'll need to import the following:
 * import {IAxelarGasService} from "https://github.com/axelarnetwork/axelar-cgp-solidity/blob/main/contracts/interfaces/IAxelarGasService.sol";
 
 
-The required chain names and contract addresses can be found [here on Axelar Docs Site](https://docs.axelar.dev/dev/build/contract-addresses/testnet).
+The required chain names and contract addresses for the gas services and gateway contracts can be found [here on Axelar Docs Site](https://docs.axelar.dev/dev/build/contract-addresses/testnet).
 
 
 
